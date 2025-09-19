@@ -152,4 +152,5 @@ if __name__ == "__main__":
     except KeyboardInterrupt:
         print("\n🛑 Bot stopped by user.")
     except Exception as e:
+
         print(f"💥 Critical error: {e}")
