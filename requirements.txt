@@ -1,2 +1,4 @@
-requests
-pandas
+aiohttp
+beautifulsoup4
+python-telegram-bot
+feedparser
