@@ -9,8 +9,8 @@ from bs4 import BeautifulSoup
 import feedparser
 
 # ===== CONFIG =====
-TELEGRAM_TOKEN = "7838823091:AAEXMGY6kQVLK6h2XZgTU63vxTPkxmkD0zs"  # 👈 Your Bot Token
-CHAT_ID = "-1002915874071"  # 👈 Your Chat ID
+TELEGRAM_TOKEN = "8257182835:AAEWU_lY0ft0V6tpLRqi2fDI9H9G2dkq0H4"  # 👈 Your Bot Token
+CHAT_ID = "-1003066403880"  # 👈 Your Chat ID
 
 BINANCE_FUTURES_URL = "https://www.binance.com/en/support/announcement/c-48"
 SEEN_ANNOUNCEMENTS_FILE = "seen_realtime_news.json"
@@ -154,3 +154,4 @@ if __name__ == "__main__":
     except Exception as e:
 
         print(f"💥 Critical error: {e}")
+
